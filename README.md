@@ -229,7 +229,7 @@ python3 -m venv venv
 source venv/bin/activate
 
 # 3. Instalar librerías requeridas
-pip install numpy matplotlib
+pip install -r requirements.txt
 
 # 4. Lanzar la simulación interactiva
 python3 main.py
@@ -243,7 +243,7 @@ python3 -m venv venv
 source venv/bin/activate
 
 # 2. Instalar las librerías requeridas (solo la primera vez)
-pip install numpy matplotlib
+pip install -r requirements.txt
 
 # 3. Lanzar la simulación interactiva
 python3 main.py
