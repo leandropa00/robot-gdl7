@@ -1,7 +1,7 @@
 # Simulador Cinemático y Visualizador 3D de Robot Manipulador Híbrido SCARA/Articulado de 7 GDL + Pinza (8 DOF Totales)
 
 <p align="center">
-  <img src="robot.jpeg" alt="Robot Industrial SCARA/Articulado de 7 GDL + Pinza" width="600"/>
+  <img src="assets/robot.jpeg" alt="Robot Industrial SCARA/Articulado de 7 GDL + Pinza" width="600"/>
   <br>
   <em>Figura 1: Manipulador industrial híbrido articulado-SCARA de 7 GDL con eje Z prismático y efector final de agarre.</em>
 </p>
