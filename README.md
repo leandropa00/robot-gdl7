@@ -235,6 +235,20 @@ pip install numpy matplotlib
 python3 main.py
 ```
 
+> **Nota:** Para evitar conflictos de versiones de Matplotlib en el sistema, es recomendable ejecutar el simulador dentro del entorno virtual `venv`:
+
+```bash
+# 1. Crear y activar el entorno virtual
+python3 -m venv venv
+source venv/bin/activate
+
+# 2. Instalar las librerías requeridas (solo la primera vez)
+pip install numpy matplotlib
+
+# 3. Lanzar la simulación interactiva
+python3 main.py
+```
+
 ---
 
 ## 5. Pruebas y Evidencias de Funcionamiento
